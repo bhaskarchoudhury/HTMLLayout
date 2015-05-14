@@ -96,8 +96,8 @@ div {
 }
 
 .box2 {
-  background-color: white;
   position: absolute;
+  background-color: white;
   left: 170px;
   top: 170px;
   width: 200px;
