@@ -99,12 +99,12 @@ div {
 }
 
 .box2 {
-	position:absolute;
+	position: absolute;
 	background-color: white;
 	left: 170px;
   top: 170px;
-  width:200px;
-  height:200px;
+  width: 200px;
+  height: 200px;
 }
 
 .box3 {
